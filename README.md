@@ -1,4 +1,4 @@
-![Header](ваша-картинка)
+![Header](https://github.com/Mephistophillis/Mephistophillis/blob/main/assets/header.png?raw=true)
 
 ## 👋 Инженер-программист | Full-Stack Developer
 
