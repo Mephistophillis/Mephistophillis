@@ -3,7 +3,7 @@
 ## 👋 Инженер-программист | Full-Stack Developer
 
 **🔧 Стек:** React • Next.js • NestJS • Docker • TypeScript  
-**🤖 Изучаю:** AI tools, MCP servers, Neovim plugins  
+**🤖 Изучаю:** AI tools, Gamedev, Unity  
 **🎮 Увлечения:** Gaming, Steam Deck 
 
 ## 📊 Статистика
